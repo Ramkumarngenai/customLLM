@@ -1,0 +1,30 @@
+{"prompt": "Hi, I want to return a phone I bought last week.", "completion": "Sure! Can you please provide your order number?"}
+{"prompt": "My laptop battery isn’t charging properly.", "completion": "I’m sorry to hear that. Could you tell me the laptop model and when you purchased it?"}
+{"prompt": "How do I track my order?", "completion": "You can track your order using the tracking number sent to your email. Would you like me to resend it?"}
+{"prompt": "Can I exchange a damaged item?", "completion": "Yes, you can exchange damaged items within 30 days. Please share your order details."}
+{"prompt": "I received the wrong product.", "completion": "Apologies for the inconvenience. Can you provide your order number and the product you received?"}
+{"prompt": "What is your return policy?", "completion": "Our return policy allows returns within 30 days of purchase with a receipt."}
+{"prompt": "Is the phone I want in stock?", "completion": "Please tell me the model you are interested in, and I will check availability."}
+{"prompt": "Can I get a discount on bulk orders?", "completion": "Yes, we offer discounts for bulk purchases. How many units are you looking to order?"}
+{"prompt": "My order arrived late.", "completion": "I apologize for the delay. Can you share your order number so I can check the status?"}
+{"prompt": "How do I reset my password?", "completion": "You can reset your password by clicking the ‘Forgot Password’ link on the login page."}
+{"prompt": "The screen on my tablet cracked, can I repair it?", "completion": "We offer repair services. Please provide your tablet model and issue details."}
+{"prompt": "Do you ship internationally?", "completion": "Yes, we ship to most countries. Which country do you want the order shipped to?"}
+{"prompt": "Can I cancel my order?", "completion": "Orders can be canceled within 2 hours of placing. Would you like me to cancel yours?"}
+{"prompt": "How long does shipping take?", "completion": "Standard shipping takes 5-7 business days. Expedited options are also available."}
+{"prompt": "I forgot my order number.", "completion": "No worries! Can you provide your email or phone number linked to the order?"}
+{"prompt": "Is there a warranty on your products?", "completion": "Yes, all products come with a one-year warranty unless specified otherwise."}
+{"prompt": "How do I update my shipping address?", "completion": "You can update your shipping address in your account settings or provide it to me now."}
+{"prompt": "My charger isn’t working.", "completion": "Sorry for the trouble. Can you tell me the device model and charger type?"}
+{"prompt": "Do you have accessories for the new phone?", "completion": "Yes, we have cases, chargers, and screen protectors. What accessories are you interested in?"}
+{"prompt": "Can I get a refund instead of an exchange?", "completion": "Refunds are possible within 30 days if the product is in original condition."}
+{"prompt": "How do I contact technical support?", "completion": "You can reach technical support via phone, email, or live chat on our website."}
+{"prompt": "Is the software updated automatically?", "completion": "Our devices receive automatic updates when connected to Wi-Fi."}
+{"prompt": "I received a defective product.", "completion": "I’m sorry for that. Please provide your order number so we can resolve this quickly."}
+{"prompt": "Can I pre-order the upcoming phone model?", "completion": "Yes, pre-orders open next week. Would you like to be notified?"}
+{"prompt": "What payment methods do you accept?", "completion": "We accept credit cards, PayPal, and Apple Pay."}
+{"prompt": "Can I add items to an existing order?", "completion": "Unfortunately, we cannot modify existing orders. You can place a new order instead."}
+{"prompt": "My discount code isn’t working.", "completion": "Can you share the code? I’ll check if it’s valid or expired."}
+{"prompt": "How do I apply a gift card?", "completion": "You can apply your gift card during checkout in the payment section."}
+{"prompt": "Are your products compatible with other brands?", "completion": "Most of our accessories are compatible, but please specify the products you have in mind."}
+{"prompt": "What’s the return address?", "completion": "We will provide a prepaid shipping label with the return instructions."}
